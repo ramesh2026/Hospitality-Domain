@@ -29,7 +29,7 @@ Throughout the project, I gained hands-on experience with several advanced Power
 - Choosing the right visuals for enhanced storytelling
 - Publishing reports via **Power BI Service** for sharing and collaboration
 
----
+----
 
 ## 💡 Key Insights Delivered
 
